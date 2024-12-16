@@ -9,10 +9,6 @@
 
 Nearby é um aplicativo desenvolvido durante o evento Pocket NLW da Rocketseat, focado em criar uma plataforma de clube de benefícios móvel. O aplicativo permite aos usuários encontrar e utilizar cupons de desconto em estabelecimentos próximos à sua localização.
 
-## Demonstração
-
-[Video Demo App](.github/demo_app_mobile.mp4)
-
 ## ✨ Funcionalidades
 
 - **Localização em Tempo Real**: Encontre estabelecimentos próximos a você
