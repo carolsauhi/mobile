@@ -1,13 +1,17 @@
 # NLW Pocket Mobile
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/image_1.jpeg" width="30%">
-  <img alt="Preview do projeto desenvolvido." src=".github/image_2.jpeg" width="30%">
+  <img alt="Preview do projeto desenvolvido(Imagem 1)." src=".github/image_1.jpeg" width="30%">
+  <img alt="Preview do projeto desenvolvido(Imagem 2)." src=".github/image_2.jpeg" width="30%">
 </p>
 
 ## 📱 Sobre o Projeto
 
 Nearby é um aplicativo desenvolvido durante o evento Pocket NLW da Rocketseat, focado em criar uma plataforma de clube de benefícios móvel. O aplicativo permite aos usuários encontrar e utilizar cupons de desconto em estabelecimentos próximos à sua localização.
+
+## 📼 Demo
+
+https://github.com/user-attachments/assets/9eb45602-2c8e-43b8-b03b-9766c6b63d9b
 
 ## ✨ Funcionalidades
 
